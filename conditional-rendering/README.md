@@ -1,3 +1,8 @@
+
+Este proyecto es para practicar conditional rendering. Dependiendo el valor de alguna variable por ejemplo 
+si el usuario es administrador mostrar ciertos componentes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
