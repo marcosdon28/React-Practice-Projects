@@ -1,3 +1,7 @@
+Con este proyecto aprendi a hacer un map y mostrar un componente por cada objeto de una lista. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
